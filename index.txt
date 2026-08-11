@@ -1,1 +1,2 @@
-We are Manic Median
+We are Manic Median.
+I am learning Git.
