@@ -1,1 +1,2 @@
-This is my first project
+# Git Course
+This is a Complete Git Course
